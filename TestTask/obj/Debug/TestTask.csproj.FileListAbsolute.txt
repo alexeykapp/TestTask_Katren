@@ -1,0 +1,6 @@
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/bin/Debug/TestTask.exe
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/bin/Debug/TestTask.pdb
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/obj/Debug/TestTask.csproj.AssemblyReference.cache
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/obj/Debug/TestTask.csproj.CoreCompileInputs.cache
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/obj/Debug/TestTask.exe
+/Users/aleksei/Documents/GitHub/TestTask/TestTask/obj/Debug/TestTask.pdb
